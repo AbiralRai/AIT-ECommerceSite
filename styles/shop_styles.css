@@ -557,6 +557,7 @@ section
 .header_search_content
 {
 	top: 50%;
+	left:10%;
 	-webkit-transform: translateY(-50%);
 	-moz-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
